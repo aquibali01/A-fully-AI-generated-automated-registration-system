@@ -7,6 +7,20 @@ The system was built as a **non-official appreciation project** for the impactfu
 
 ---
 
+## 🎥 Project Demo Video
+
+Watch the full project breakdown here:  
+👉 **https://youtu.be/f_dfoQU16lY**
+
+---
+
+## 🌐 Live Website
+
+Try the website live:  
+👉 **https://life-changing-day-seminar-1087284623024.us-west1.run.app/**
+
+---
+
 ## 🚀 Features
 
 ### 🌐 Website (Generated using Google Build)
@@ -16,7 +30,7 @@ The system was built as a **non-official appreciation project** for the impactfu
 - “What you’ll learn” section  
 - Trailer video embed  
 - Registration form popup  
-- Fully built via prompts (no manual coding)
+- Fully created using prompts (no manual coding)
 
 ---
 
@@ -28,7 +42,7 @@ The automation consists of:
 Receives the form submission from the website.
 
 ### **2. JSON Body Parser**
-Extracts the clean fields:
+Extracts clean fields:
 - `name`  
 - `email`  
 - `question`
@@ -53,19 +67,54 @@ Everything happens **instantly and automatically**.
 
 ---
 
+## 📘 Step-by-Step Documentation
+
+### **1. Website Built in Google Build**  
+AI prompts generated:
+- Hero section  
+- Timer  
+- Trailer  
+- “What You’ll Get” Section  
+- Registration form  
+
+---
+
+### **2. Form Submission → Webhook (n8n)**  
+The form submission triggers the webhook node.
+
+---
+
+### **3. JSON Parsing**  
+Cleaner structure after parsing:
+- Name  
+- Email  
+- Question  
+
+---
+
+### **4. Data Saved to Google Sheets**
+
+| Name | Email | Question | Timestamp |
+|------|--------|-----------|-----------|
+
+---
+
+### **5. Confirmation Email Sent Automatically**  
+The attendee receives a confirmation email instantly.
+
+
 ## 🎯 Purpose
 
-This project demonstrates how AI + No-Code + Automation can build a complete operational system **within hours**, without traditional development.
+This project demonstrates how AI + No-Code + Automation can build a complete operational system **within hours**, with zero traditional coding.
 
 ---
 
 ## 📩 Contact
 
-If you want to automate your business or need help building similar workflows:
+For automation help or similar workflow setups:
 
 **Aqib Ali**  
 AI & Automation Freelancer  
-Twitter / LinkedIn: *@aquibali*  
 
 ---
 
